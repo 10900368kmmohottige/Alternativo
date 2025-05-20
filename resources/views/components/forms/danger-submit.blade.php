@@ -1,0 +1,1 @@
+<input {{$attributes->merge(['class'=>"text-white bg-red-500 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-xs px-5 py-2.5 me-2 mb-2 ", 'value'=>$slot, 'type'=>'submit'])}}}/>
